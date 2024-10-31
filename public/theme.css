@@ -1,0 +1,23 @@
+body, html {
+    background: radial-gradient(maroon, #bbeefa, #fafba0); 
+    font-family: 'Raleway';
+    color: rgb(47, 80, 0);
+    overflow: auto;
+    height: 100%;
+    margin: 0;
+}
+
+
+.navbar {
+    background: #67b055; 
+    box-shadow: 0 5px 10px #67b055; 
+}
+
+
+.navbar-brand {
+    font-family: 'Raleway'; 
+    overflow: auto;
+    height: 100%;
+    margin: 0;
+}
+
